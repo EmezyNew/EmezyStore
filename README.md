@@ -12,7 +12,7 @@ Telegram: https://t.me/Emezy_DevOld
 ## 🎮 Game Sources
 
 
-### Source 0.12.1
+### Source Standoff 0.12.1
 
 Цена: 7000-12000 ₽
 
@@ -21,7 +21,7 @@ Telegram: https://t.me/Emezy_DevOld
 - Возможность доработки
 
 
-### Source 0.10.11
+### Source Standoff 0.10.11
 
 Цена: 3000-5000 ₽
 
