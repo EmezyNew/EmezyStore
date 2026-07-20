@@ -1,191 +1,404 @@
 # EmezyStore
+
 Продажа исходников, серверов, SDK и готовых проектов.
 
-Возможна демонстрация отдельных частей проекта перед покупкой.
-По вопросам покупки:
+Распродаю свои проекты и наработки.  
+Возможна демонстрация отдельных частей проекта перед покупкой (где это возможно).  
+Отвечу на вопросы перед покупкой.
+
+📩 Контакты:
 Telegram: https://t.me/Emezy_DevOld
 
 
-## Проекты
+# 📦 Projects
 
 
-## 🎮 Game Sources
+# 🎮 Game Sources
 
 
-### Source Standoff 0.12.1
+## Source Standoff 0.12.1
 
-Цена: 7000-12000 ₽
+💰 Цена: 7000-12000 ₽
+
+В комплекте:
 
 - Full Source Code
-- Client Source
-- Возможность доработки
-
-
-### Source Standoff 0.10.11
-
-Цена: 3000-5000 ₽
-
-- Полный исходный код
-- База для модификаций
-
-
-### REPO SOURCE GAME
-
-Цена: 3000-5000 ₽
-
-- Игровая логика
-- Source Code
+- Клиентская часть
+- Возможность доработки под свои задачи
 
 
 ---
 
-# Servers
+## Source Standoff 0.10.11
+
+💰 Цена: 3000-5000 ₽
+
+В комплекте:
+
+- Полный Source Code
+- Отличная база для модификаций и изучения
+
+
+---
+
+## REPO SOURCE GAME
+
+💰 Цена: 3000-5000 ₽
+
+Возможности:
+
+- Полный исходный код проекта
+- Игровая логика
+- Возможность дальнейшего развития
+
+
+---
+
+# 🖥 Servers
 
 
 ## StandBoldServer
 
-Цена:
-5000-7000 ₽
+💰 Цена: 5000-7000 ₽
+
+Дополнительно:
+Подключение API для Photon Plugin (за отдельную плату)
+
 
 Возможности:
 
-- Серверная часть
-- База для собственного сервера
-- Photon Plugin API (дополнительно)
+- Серверная часть проекта
+- Готовая база для собственного сервера
 
 
 ---
 
-# APIs & Tools
+## BlockStrike 6.0.9 + TCP Server
+
+💰 Цена: 3000-5000 ₽
+
+Информация:
+
+- Игра работает
+- TCP Server присутствует
+- Есть небольшие баги
+- Требуются мелкие доработки
+
+
+---
+
+## Server for Comu
+
+💰 Цена: 5000 ₽
+
+Проект:
+https://github.com/NikkaGames/ComuOSS
+
+
+---
+
+# 🌐 API & Tools
 
 
 ## Goofish API + Telegram Monitor
 
-Цена:
-7000-9000 ₽
-
-Функции:
-
-- Мониторинг объявлений
-- Cookies
-- H5Tk
-- CookieStr
-- DeviceId
-- Telegram integration
+💰 Цена: 7000-9000 ₽
 
 
----
-
-# Photon
-
-
-## Photon Server SDK 4
-
-Цена:
-5000 ₽
-
-С исходниками:
-7000 ₽
-
-
-## Photon Server SDK 5
-
-Цена:
-6000 ₽
-
-
-Комплект:
-10000 ₽
-
-
----
-
-# Backend Projects
-
-
-## EmezyLogger
-
-Цена:
-3000-5000 ₽
-
-
-Technology:
-
-- C#
-- .NET 8
-- ASP.NET Core
-- MongoDB
-- Telegram.Bot
+Полностью готовое API для работы с Goofish.
 
 
 Возможности:
 
-- Logger keys
-- Analytics
-- MongoDB storage
-- Telegram management
-- Statistics
+- Мониторинг новых объявлений в реальном времени
+- Получение новых позиций
+- Автоматический подбор Cookies
+- Работа с H5Tk
+- CookieStr
+- DeviceId
+- Интеграция с Telegram Bot
+- Создание собственных сервисов мониторинга
 
 
 ---
 
-# Telegram Bots
+## MatchMakingPlugin
+
+💰 Цена: 3000-5000 ₽
 
 
-## GarantBot
+Возможности:
 
-Цена:
-3000-5000 ₽
+- Плагин матчмейкинга
+- Поддержка союзников
+- MatchMaking система
 
 
-Features:
+---
 
-- P2P deals
-- Stars
+# ⚡ Photon SDK
+
+
+## Photon Server SDK 4
+
+💰 Цена:
+
+SDK:
+5000 ₽
+
+SDK + Source:
+7000 ₽
+
+
+В комплекте:
+
+- SDK
+- Исходники
+
+
+---
+
+## Photon Server SDK 5
+
+💰 Цена: 6000 ₽
+
+В комплекте:
+
+- SDK
+- Все необходимые файлы
+
+
+---
+
+## Photon SDK Bundle
+
+Photon Server SDK 4 + Photon Server SDK 5
+
+💰 Цена: 10000 ₽
+
+
+---
+
+# 🔧 Backend Projects
+
+
+# EmezyLogger
+
+💰 Цена: 3000-5000 ₽
+
+
+Полноценная система логирования на ASP.NET Core (.NET 8)
+с интеграцией MongoDB и Telegram Bot API.
+
+
+Возможности:
+
+- Создание уникальных Logger Keys
+- Отслеживание переходов по публичным ссылкам
+- Сбор информации о пользователях:
+    - IP адрес
+    - Страна
+    - Город
+    - Часовой пояс
+    - ISP
+    - User-Agent
+    - Referer
+    - Время посещения
+
+- MongoDB хранение данных
+- Telegram управление системой
+- Поддержка нескольких Telegram Bot зеркал
+- Автоматическая генерация ключей
+- Статистика пользователей
+- Интеграция Telegraph API
+
+
+Технологии:
+
+- C#
+- .NET 8
+- ASP.NET Core
+- MongoDB Driver
+- Telegram.Bot API
+- Telegraph API
+
+
+Подходит для:
+
+- Backend проектов
+- Игровых серверов
+- Аналитики
+- Мониторинга
+- Внутренних сервисов
+
+
+В комплекте:
+
+- Source Code
+- Серверная часть
+- Возможность расширения
+
+
+---
+
+# 🤖 Telegram Bots
+
+
+## GarantBot — Telegram P2P Guarantor
+
+💰 Цена: 3000-5000 ₽
+
+
+Полноценный Telegram-бот гарант для P2P сделок.
+
+
+Поддержка:
+
+- Telegram Stars
 - TON
-- Bank cards
-- Referral system
-- Admin panel
-- Multi-bot support
-- SQLite database
+- Банковские карты
+
+
+Возможности:
+
+- Создание сделок
+- Подтверждение оплаты
+- Передача товара
+- Реферальная система
+- Комиссия 2%
+- Реферер получает 50%
+- Multi-bot система
+- Админ-панель
+- Бан пользователей
+- Управление зеркалами
+- Технический режим
+- Статистика
+- Два языка:
+    - Русский
+    - English
+
+- WhiteList
+- Maintenance Mode
+- Диспуты
+- Арбитраж
+- Логирование действий
+- Управление реквизитами
+- История сделок
+
+
+Технологии:
+
+- C#
+- .NET 8
+- Telegram.Bot
+- SQLite
+- Handler / Service Architecture
+
+
+В комплекте:
+
+- Полный Source Code
+- Серверная часть
+- База данных
 
 
 ---
 
-# Reverse Engineering
+# 🔍 Reverse Engineering
 
 
-## IL2CPP Tools
+## Reversing Code IL2CPP
 
-Цена:
-3000-5000 ₽
+💰 Цена: 3000-5000 ₽
+
+
+Обучение:
+
+- Работа с reverse tools
+- Анализ Unity игр
+- Восстановление IL2CPP кода
+- Анализ приложений
+
+
+---
+
+## Восстановление игр
+
+💰 Цена: договорная
 
 
 Помощь:
 
-- Анализ Unity игр
-- IL2CPP восстановление
-- Работа с reverse tools
+- Восстановление исходного кода
+- Анализ игровых файлов
+- Восстановление проектов
 
 
 ---
 
-# Custom Development
+# 🧩 Pseudo Code
 
-Разработка:
+
+## Standoff 0.11.0
+
+💰 Цена: 1500-3000 ₽
+
+
+## Standoff 0.12.1
+
+💰 Цена: 1500-3000 ₽
+
+
+## Standoff 0.17.1
+
+💰 Цена: 3000-5000 ₽
+
+
+---
+
+# 🔐 Decrypt Metadata
+
+
+## Metadata Header Restore
+
+💰 Цена: 1500-3000 ₽
+
+Возможности:
+
+- Восстановление зашифрованного заголовка
+
+
+---
+
+## Metadata Decrypt Tool
+
+💰 Цена: 1500-3000 ₽
+
+Возможности:
+
+- Расшифровка metadata по ключу
+
+
+---
+
+# 💻 Custom Development
+
+
+Разработка под заказ:
 
 - Telegram Bots
-- Backend
-- API
-- C# applications
-- Unity systems
+- Backend API
+- C# Applications
+- Unity Systems
+- Серверные решения
 
-Цена договорная.
+
+💰 Цена: договорная
 
 
 ---
 
-## Contact
+# 📩 Contact
 
 Telegram:
 https://t.me/Emezy_DevOld
